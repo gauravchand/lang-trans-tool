@@ -1,0 +1,12 @@
+# Core dependencies
+gradio
+transformers
+python-docx
+PyPDF2
+torch
+sentencepiece
+tf-keras
+
+# Optional but recommended for better performance
+numpy
+tqdm
